@@ -35,7 +35,7 @@ I like keeping things **simple, polished, and intentional.**
 
 ### Tech
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,reactjs,nextjs,tailwind,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,tailwind,html,css&theme=dark"/>
 
 <br><br>
 
