@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120c09,50:24130b,100:3a1b0c&height=170&section=header&text=Kaiz&fontSize=58&fontColor=F29A3F&animation=fadeIn&fontAlignY=45" width="100%"/>
@@ -47,4 +46,3 @@ I like keeping things **simple, polished, and intentional.**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1b0c,50:24130b,100:120c09&height=100&section=footer" width="100%"/>
 
 </div>
-```
