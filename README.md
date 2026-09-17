@@ -29,13 +29,13 @@ I like keeping things **simple, polished, and intentional.**
 
 ### What I Do
 
-`Web Development`　·　`Discord Development`　·　`UI / UX`　·　`Creative Coding`
+`Web Development`　·　`Discord Development`　·　`UI / UX`　·　`Clean Coding`
 
 <br>
 
 ### Tech
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,mongodb,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,reactjs,nextjs,tailwind,html,css&theme=dark"/>
 
 <br><br>
 
