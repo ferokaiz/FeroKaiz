@@ -1,45 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1b120d&height=130&section=header&text=kaiz&fontSize=52&fontColor=f28c28&animation=fadeIn&fontAlignY=55"/>
-
-### developer · designer · builder
-
-*I build things that look good, work well, and don't feel over-engineered.*
-
-[ github ](https://github.com/YOUR_USERNAME) · [ discord ](https://discord.com/) · [ portfolio ](https://YOUR_PORTFOLIO.com)
-
-</div>
-
----
-
-### `01` — a little about me
-
-I'm **Kaiz**, a design-focused developer who enjoys turning ideas into clean, functional experiences.
-
-I mainly work with **websites, web apps, and Discord bots** — with a strong focus on the details people usually overlook.
-
-```text
-web        →  interfaces, websites, web apps
-discord    →  bots, systems, automation
-design     →  UI, motion, visual direction
-```
-
----
-
-### `02` — tools I use
-
+```md
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120c09,50:24130b,100:3a1b0c&height=170&section=header&text=Kaiz&fontSize=58&fontColor=F29A3F&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=F29A3F&center=true&vCenter=true&width=600&lines=Developer+%26+Designer;Web+%7C+Discord+%7C+Creative+Development;Building+Things+With+Care." />
+
+<br>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-24130B?style=for-the-badge&logo=discord&logoColor=F29A3F"/>
+</a>
+<a href="https://youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-24130B?style=for-the-badge&logo=youtube&logoColor=F29A3F"/>
+</a>
+<a href="https://YOUR-WEBSITE.com/">
+<img src="https://img.shields.io/badge/Website-24130B?style=for-the-badge&logo=googlechrome&logoColor=F29A3F"/>
+</a>
+
+<br><br>
+
+### About Me
+
+I'm **Kaiz** — a design-focused developer who enjoys building  
+clean websites, interactive experiences, and powerful Discord bots.
+
+I like keeping things **simple, polished, and intentional.**
+
+<br>
+
+### What I Do
+
+`Web Development`　·　`Discord Development`　·　`UI / UX`　·　`Creative Coding`
+
+<br>
+
+### Tech
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,mongodb,git&theme=dark"/>
 
+<br><br>
+
+<sub>Design it. Build it. Make it feel right.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1b0c,50:24130b,100:120c09&height=100&section=footer" width="100%"/>
+
 </div>
-
----
-
-### `03` — currently
-
-> building · experimenting · learning
-
-Mostly working on **new web experiences, Discord projects, and random ideas that turn into actual projects.**
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b120d,100:3a1c0c&height=90&section=footer"/>
+```
