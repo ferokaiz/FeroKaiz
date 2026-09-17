@@ -6,13 +6,13 @@
 
 <br>
 
-<a href="https://discord.com/">
+<a href="https://discord.gg/KGckZqtKf9">
 <img src="https://img.shields.io/badge/Discord-24130B?style=for-the-badge&logo=discord&logoColor=F29A3F"/>
 </a>
-<a href="https://youtube.com/">
+<a href="https://youtube.com/@FeroXDevs">
 <img src="https://img.shields.io/badge/YouTube-24130B?style=for-the-badge&logo=youtube&logoColor=F29A3F"/>
 </a>
-<a href="https://YOUR-WEBSITE.com/">
+<a href="https://mrkaiz.vercel.app/">
 <img src="https://img.shields.io/badge/Website-24130B?style=for-the-badge&logo=googlechrome&logoColor=F29A3F"/>
 </a>
 
